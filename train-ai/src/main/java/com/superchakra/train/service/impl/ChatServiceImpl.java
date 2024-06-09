@@ -6,5 +6,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ChatServiceImpl implements ChatService {
 
+    public static final String GIT_TEST_FLAG = "READY";
+
 
 }
